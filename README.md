@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Around the U.S.](https://github.com/Bree-Mass/se_project_aroundtheus)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Typescript** and **React.js**
 
 - 📫 How to reach me **breemassingill@gmail.com**
 
