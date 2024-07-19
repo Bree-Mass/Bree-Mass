@@ -1,9 +1,9 @@
 <h1 align="center">Welcome, I'm Bree</h1>
 <h3 align="center">Student of Triple Ten</h3>
 
-- 🔭 I’m currently working on [Around the U.S.](https://github.com/Bree-Mass/se_project_aroundtheus)
+- 🔭 I’m currently working on [Vite and React]([https://github.com/Bree-Mass/se_project_aroundtheus](https://github.com/Bree-Mass/vite_react))
 
-- 🌱 I’m currently learning **Typescript** and **React.js**
+- 🌱 I’m currently learning **Typescript** and **React**
 
 - 📫 How to reach me **breemassingill@gmail.com**
 
