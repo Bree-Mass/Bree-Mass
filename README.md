@@ -1,5 +1,5 @@
 <h1 align="center">Full-Stack Developer Bree Massingill</h1>
-<h3 align="center">An</h3>
+<h3 align="center">Full-stack developer passionate about learning new techniques to build interactive web applications. Check out my projects to see how I turn ideas into functional, user-friendly experiences.</h3>
 
 - 🔭 I’m currently working on [State of it All](https://github.com/Bree-Mass/soia_frontend)
 
