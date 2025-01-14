@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [State of it All](https://github.com/Bree-Mass/soia_frontend)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Typescript** and **Python**
 
 - 📫 How to reach me **breemassingill@gmail.com**
 
